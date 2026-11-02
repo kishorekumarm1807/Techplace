@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8080/api';
+const API_BASE = 'https://techplace-7n0c.onrender.com/api';
 
 function getHeaders() {
   const token = localStorage.getItem('techplace_token');
