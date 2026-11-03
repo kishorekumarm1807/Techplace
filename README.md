@@ -1,7 +1,9 @@
 # TechPlace — Placement Preparation & Tech Placement Tracking System
 
 TechPlace is a high-performance student placement tracking and preparation system designed to calculate, track, and optimize a student's **Placement Readiness Score**.
+## 🌐 Live Demo
 
+[Click here to visit TechPlace](https://techplace-1.onrender.com)
 ---
 
 ## 🏛️ Architecture Overview
